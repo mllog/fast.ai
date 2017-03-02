@@ -1,2 +1,6 @@
-# fast.ai
-Code for fast.ai DL course
+# Introduction
+This is repository for source codes for fast.ai DL course.
+
+## Setup AWS environment
+
+## Setup Floydhub environment
